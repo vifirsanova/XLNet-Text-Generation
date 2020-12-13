@@ -6,4 +6,6 @@
 
 Для построения модели мы воспользуется [XLNet от HuggingFace](https://huggingface.co/transformers/model_doc/xlnet.html).
 
-Туториал специально для [Дискуссионного клуба NLP](https://vk.com/nlp_discussion).
+______
+
+### Туториал подготовлен специально для [Дискуссионного клуба NLP](https://vk.com/nlp_discussion).
